@@ -9,7 +9,6 @@
 
 - 💬 Ask me about **C/C++, React.js, Express.js**
 
-- 📫 How to reach me **david.hang.12138@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
