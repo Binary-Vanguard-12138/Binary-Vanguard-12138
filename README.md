@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=david-hang-12138&label=Profile%20views&color=0e75b6&style=flat" alt="david-hang-12138" /> </p>
 
-- 🔭 I’m currently working on **Sense Guard WAF Solution**
+- 🔭 I’m currently working on **AI & ML WAF Solution**
 
 - 🌱 I’m currently learning **AI, ML frameworks like Numpy, Tensorflow**
 
