@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋</h1>
-<h3 align="center">A senior software engineer with 8+ years of experience</h3>
+<h3 align="center">A senior software engineer with 10+ years of experience</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=binary-vanguard-12138&label=Profile%20views&color=0e75b6&style=flat" alt="binary-vanguard-12138" /> </p>
 
